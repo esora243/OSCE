@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/OSCE_全手技ランダムトレーナー.html"
+    }
+  ]
+}
